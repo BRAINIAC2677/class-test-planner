@@ -1,6 +1,6 @@
 # `Class Test Planner`
 
-A minimal, end-to-end full-stack application demonstrating how to integrate an Oracle Database with a Node.js backend and a Next.js frontend. This project serves as a basic template for understanding 3-tier architecture.
+A minimal, end-to-end full-stack application demonstrating **System Integration** for the **CSE-216 | Database** course at **BUET**. This project serves as a basic template for understanding 3-tier architecture.
 
 ## Tech Stack
 
